@@ -19,7 +19,7 @@
       //item archieved 
       public bool Archived { get; set; } = false;
       //After approved for release then do rejection
-      public bool Rejeted { get; set; } = false;
+      public bool Rejected { get; set; } = false;
 
    }
 }
